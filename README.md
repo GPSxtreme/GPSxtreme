@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prudhvi</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate web and game developer from India</h3>
 
-- 🌱 I’m currently learning **Javascript and CSS**
+- 🌱 I’m currently learning **React JS and Unity**
 
 - 📫 How to reach me **prudhvisuraaj@gmail.com**
 
