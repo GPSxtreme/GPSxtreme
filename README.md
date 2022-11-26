@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm Prudhvi</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-- 🌱 I’m currently learning **Flutter and Unity**
+- 🌱 I’m currently learning **Flutter and React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/GPSxtreme?tab=repositories](https://github.com/GPSxtreme?tab=repositories)
 
 - 📫 How to reach me **prudhvisuraaj@gmail.com**
 
 - ⚡ Fun fact **Iam really good at FPS competitive games**
+- 👩‍💻 Check out my portfolio website https://prudhvisuraaj.netlify.app
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
