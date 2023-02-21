@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prudhvi</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-- 🌱 I’m currently learning **Flutter and React**
+- 🌱 I’m currently learning **Flutter and Next.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/GPSxtreme?tab=repositories](https://github.com/GPSxtreme?tab=repositories)
 
