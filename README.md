@@ -5,10 +5,10 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/GPSxtreme?tab=repositories](https://github.com/GPSxtreme?tab=repositories)
 
-- 📫 How to reach me **prudhvisuraaj@gmail.com**
+- 📫 How to reach me **contact@prudhvisuraaj.me**
 
 - ⚡ Fun fact **Iam really good at FPS competitive games**
-- 👩‍💻 Check out my portfolio website https://prudhvisuraaj.netlify.app
+- 👩‍💻 Check out my portfolio website https://prudhvisuraaj.me
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
